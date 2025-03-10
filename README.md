@@ -1,0 +1,1 @@
+Hi this is a demo repo meant to teach people how to use git :)
